@@ -1,8 +1,8 @@
 Pod::Spec.new do |s|
 
-s.name                  = 'ELY-iOS-Framework'
+s.name                  = 'ELYiOSFramework'
 s.version      = '1.0.1'
-s.summary               = 'ELY-iOS-Framework'
+s.summary               = 'ELYiOSFramework'
 s.homepage              = 'http://www.eelly.app/diffusion/FRAMEWORK/ely-ios-framework.git'
 s.platform     = :ios, '7.0'
 s.license               = 'MIT'
